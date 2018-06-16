@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Staging_DDL" type="PLAIN_TEXT" />
+      <mapping ext="hql" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
