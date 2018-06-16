@@ -1,7 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="conf_files" type="PLAIN_TEXT" />
+      <mapping pattern="pig_scripts" type="PLAIN_TEXT" />
+      <mapping pattern="scala_code" type="PLAIN_TEXT" />
       <mapping pattern="Staging_DDL" type="PLAIN_TEXT" />
+      <mapping pattern="hdfs_commands" type="PLAIN_TEXT" />
+      <mapping pattern="hive_commands" type="PLAIN_TEXT" />
+      <mapping pattern="jar_files" type="PLAIN_TEXT" />
+      <mapping pattern="mapreduce" type="PLAIN_TEXT" />
+      <mapping pattern="Shell_Script" type="PLAIN_TEXT" />
+      <mapping pattern="sqoop_commands" type="PLAIN_TEXT" />
       <mapping ext="hql" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
