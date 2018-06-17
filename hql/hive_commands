@@ -1,0 +1,1 @@
+select * from dl_stg.transactions_oracle;
