@@ -14,8 +14,12 @@
           <option name="url" value="http://github.com/princearora07/hadoop_Project_9_12_July_2018" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/princearora07/hadoop_repository_12_3_Sep_2018" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\admin\Documents\GitHub\hadoop_sample_28_July1" />
+    <option name="cloneParentDir" value="C:\Users\admin\Documents\GitHub\hadoop_sample_28_July123" />
   </component>
 </application>
