@@ -9,11 +9,12 @@
       <mapping pattern="hdfs_commands" type="PLAIN_TEXT" />
       <mapping pattern="hive_commands" type="PLAIN_TEXT" />
       <mapping pattern="jar_files" type="PLAIN_TEXT" />
-      <mapping pattern="Redme" type="PLAIN_TEXT" />
+      <mapping pattern="sqoop_commands" type="PLAIN_TEXT" />
       <mapping pattern="test_prince_!23" type="PLAIN_TEXT" />
       <mapping pattern="mapreduce" type="PLAIN_TEXT" />
+      <mapping pattern="sample" type="PLAIN_TEXT" />
       <mapping pattern="Shell_Script" type="PLAIN_TEXT" />
-      <mapping pattern="sqoop_commands" type="PLAIN_TEXT" />
+      <mapping pattern="Redme" type="PLAIN_TEXT" />
       <mapping pattern="ReadMe" type="PLAIN_TEXT" />
       <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping ext="hql" type="PLAIN_TEXT" />
