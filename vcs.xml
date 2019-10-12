@@ -50,9 +50,17 @@
           <option name="url" value="https://github.com/princearora07/TG_Sep_2019_12_3.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/princearora07/TG_9_12_July_2019.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/princearora07/Tg_5_30_Hadoop" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\admin\Documents\GitHub\12_3" />
+    <option name="cloneParentDir" value="C:\Users\admin\Documents\GitHub\5_30PM1" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
